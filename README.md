@@ -1,13 +1,14 @@
 # Hi there, I'm Ahmed SILINI 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Certified+Mobile+Developer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Certified+Mobile+Developer;AI+Enthusiast;Passionate+about+QA+%26+DevOps" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedsilini)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedsilini5@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedsilini.vercel.app)
 
 </div>
 
@@ -18,6 +19,7 @@ I'm a **Software Engineer** and **Certified Mobile Developer** with expertise in
 - 🔭 Currently working on **enterprise-grade local AI assistants** with 100% data privacy
 - 🌱 Specialized in **AI/ML, Mobile Development, Quality Assurance** and **DevOps**
 - 🤖 Passionate about **conversational AI**, **healthcare AI**, and **process automation**
+- 🛡️ Deeply interested in **Quality Assurance** and **DevOps** practices to ensure robust, scalable solutions
 - 🌍 Open to **international opportunities** and remote collaboration
 - 📱 Certified in **Flutter & Dart** mobile development
 
