@@ -77,7 +77,7 @@ I'm a **QA & Test Automation Engineer** and **Software Engineer** with a strong 
 class Ahmed:
     def __init__(self):
         self.role = "QA & Test Automation Engineer @ LittleBig Connection (Mantu Group)"
-        self.education = "Software Engineering @ INSAT (Final Year)"
+        self.education = "Software Engineering @ INSAT"
 
     def interests(self):
         return ["QA Automation", "AI/ML", "Mobile Development", "DevOps"]
